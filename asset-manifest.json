@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormBuild/static/css/main.b38d7084.css",
+    "main.js": "/FormBuild/static/js/main.d32b43e0.js",
+    "index.html": "/FormBuild/index.html",
+    "main.b38d7084.css.map": "/FormBuild/static/css/main.b38d7084.css.map",
+    "main.d32b43e0.js.map": "/FormBuild/static/js/main.d32b43e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b38d7084.css",
+    "static/js/main.d32b43e0.js"
+  ]
+}
